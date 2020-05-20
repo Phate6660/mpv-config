@@ -5,7 +5,7 @@ My mpv configuration.
 ## Profiles
 
 - `no_vp` is the default, it uses all the settings you see described here.
-- `vp` is also available, it also uses everything except the codec is set to always use VP9 instead.
+- `vp` is also available, it also uses everything except the video codec is set to always use VP9 instead.
 
 ## Video and Audio Settings
 
