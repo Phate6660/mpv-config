@@ -37,3 +37,10 @@ My mpv configuration.
 - Disable screensaver during media playback.
 - Log mpv to `/home/valley/.config/mpv/mpv.log`.
 - Automatically prefetch/buffer files later in the playlist.
+
+## Scripts
+
+I claim none of these scripts.
+
+- `acompressor`: Disabled by default, it is used to make the volume more tolerable for certain media that loves to have quiet talking and booming sound effects. Press [n] to toggle.
+- `ytdl_hook`: Enabled by default, it prefetches/buffers youtube videos later in the playlist.
