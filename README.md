@@ -54,6 +54,7 @@ I claim none of these scripts.
 
 Everything was left default, except for a few that were added:
 
+- `0x21ff73`: This is an extra button on the left-hand side of my mouse, below the `MBTN_{FORWARD,BACK}` buttons. This quits while saving the current position of the video to watch later. This is not needed since I already have `mpv` confugured to save the position by default.
 - `MBTN_FORWARD`: This is an extra button on the left-hand side of my mouse. Pressing it skips forward by 60 seconds.
 - `MBTN_BACK`: This is an extra button on the left-hand side of my mouse. Pressing it skips backward by 60 seconds.
 - `MBTN_MID`: This is an extra button behind the mouse wheel. Pressing it takes a screenshot.
