@@ -6,6 +6,7 @@ My mpv configuration.
 
 - `no_vp` is the default, it uses all the settings you see described here.
 - `vp` is also available, it also uses everything except the video codec is set to always use VP9 instead.
+- `ballsy` uses everything from `no_vp`, but also tells `mpv` not to drop frames. Not for those with weak hardware... like me. :(
 
 ## Video and Audio Settings
 
