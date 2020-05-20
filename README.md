@@ -20,12 +20,12 @@ My mpv configuration.
 - External subs don't have to match the file name exactly to autoload.
 - Set subtitle language to english.
 - Disable display of subtitles, but still load them if available.
-- Search for subtitles in any sub-directory labeled: "ass", "srt", "sub", "subs", or "subtitles".
+- Search for subtitles in any sub-directory labeled: `ass`, `srt`, `sub`, `subs`, or `subtitles`.
 
 ## Cache Settings
 
 - Cache is enabled.
-- Size of 2GB both backwards and forwards.
+- Size of 2GB in total, caches both backwards and forwards.
 - Cache is seekable.
 
 ## Screenshot Settings
