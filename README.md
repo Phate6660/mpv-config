@@ -49,3 +49,12 @@ I claim none of these scripts.
 
 - `acompressor`: Disabled by default, it is used to make the volume more tolerable for certain media that loves to have quiet talking and booming sound effects. Press [n] to toggle.
 - `ytdl_hook`: Enabled by default, it prefetches/buffers youtube videos later in the playlist.
+
+## Keybindings
+
+Everything was left default, except for a few that were added:
+
+- `MBTN_FORWARD`: This is an extra button on the left-hand side of my mouse. Pressing it skips forward by 60 seconds.
+- `MBTN_BACK`: This is an extra button on the left-hand side of my mouse. Pressing it skips backward by 60 seconds.
+- `MBTN_MID`: This is an extra button behind the mouse wheel. Pressing it takes a screenshot.
+- `F1`: Toggles subtitle visibilty. Not needed since this already has a default keybinding of `v`, but by the time I knew that I had already gotten used to pressing `F1`.
