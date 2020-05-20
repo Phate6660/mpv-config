@@ -2,6 +2,11 @@
 
 My mpv configuration.
 
+## Profiles
+
+- `no_vp` is the default, it uses all the settings you see described here.
+- `vp` is also available, it also uses everything except the codec is set to always use VP9 instead.
+
 ## Video and Audio Settings
 
 - Use GPU-accelerated video output by default.
